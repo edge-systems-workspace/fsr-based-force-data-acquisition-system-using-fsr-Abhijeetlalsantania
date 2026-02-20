@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VO8hr3MM)
 # 🧲 Embedded Force Measurement System – FSR
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -137,4 +136,4 @@ Students must include:
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License 
