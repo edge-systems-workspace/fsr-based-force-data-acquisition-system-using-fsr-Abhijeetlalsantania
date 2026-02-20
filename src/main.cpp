@@ -1,7 +1,7 @@
 // main.cpp
 #include <Arduino.h>
 
-/**
+/** 
  * @file main.cpp
  * @brief Embedded Force Measurement System using FSR
  * @author (Abhijeet Lalsantania)
